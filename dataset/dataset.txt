@@ -1,0 +1,3 @@
+this was taken from Kaggle by S.M. Shahriar
+
+https://www.kaggle.com/datasets/shahriar26s/banana-ripeness-classification-dataset/code 
